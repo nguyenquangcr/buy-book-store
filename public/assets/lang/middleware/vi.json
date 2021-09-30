@@ -1,0 +1,8 @@
+{
+    "label_alert_insert_movie_success": "Thêm phim thành công !",
+    "label_alert_insert_movie_false": "Thêm phim không thành công !",
+    "label_alert_modify_movie_success": "Chỉnh sửa phim thành công !",
+    "label_alert_modify_movie_false": "Chỉnh sửa phim không thành công !",
+    "label_alert_delete_movie_success": "Xóa phim thành công !",
+    "label_alert_delete_movie_false": "Xóa phim thất bại !"
+}

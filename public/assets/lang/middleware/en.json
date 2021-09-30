@@ -1,0 +1,8 @@
+{
+    "label_alert_insert_movie_success": "Movie added successfully !",
+    "label_alert_insert_movie_false": "Movie addition failed !",
+    "label_alert_modify_movie_success": "Movie editing is successful !",
+    "label_alert_modify_movie_false": "Movie editing failed !",
+    "label_alert_delete_movie_success": "Successfully deleted the movie !",
+    "label_alert_delete_movie_false": "Failed to delete the movie !"
+}

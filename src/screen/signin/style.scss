@@ -1,0 +1,32 @@
+.sign-in-body{
+    width: 100%;
+    height: auto;
+    margin: 10px;
+}
+.sign-in {
+    // background-color: red;
+    text-align: center;
+    font-size: xxx-large;
+}
+.form-style{
+    text-align: -webkit-center;
+    margin: 30px;
+}
+.input-label {
+    width: 300px;
+    margin: 10px;
+}
+.btn-style {
+    text-align: -webkit-center;
+    background: #c06565;
+    border: none;
+    box-shadow: 2px 3px #8888887d;
+}
+.login-language {
+    position: absolute;
+    top: 30px;
+    right: 50px;
+    input {
+        margin-left: 10px;
+    }
+}

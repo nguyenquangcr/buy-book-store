@@ -1,0 +1,470 @@
+{
+  "user": [
+    {
+      "id": 0,
+      "taiKhoan": "nguyenquang",
+      "hoTen": "Trần Nguyên Quang",
+      "matKhau": "123456",
+      "hinhAnh": "https://trello-members.s3.amazonaws.com/5b87ebebb63a3e34709f79bb/7b91c08a55337fe24493904e83aa35a7/original.png",
+      "ngaySinh": "05/07/1997",
+      "diaChi": "16/2A đường 51 phường Hiệp Bình Chánh quận Thủ Đức"
+    },
+    {
+      "id": 1,
+      "taiKhoan": "quang.trannguyen@hdwebsoft.com",
+      "hoTen": "Trần Nguyên Quang",
+      "matKhau": "123456",
+      "hinhAnh": "https://trello-members.s3.amazonaws.com/5b87ebebb63a3e34709f79bb/7b91c08a55337fe24493904e83aa35a7/original.png",
+      "ngaySinh": "05/07/1997"
+    },
+    {
+      "id": 2,
+      "taiKhoan": "tuando",
+      "hoTen": "Đỗ Văn Tuấn",
+      "matKhau": "123456",
+      "hinhAnh": "https://trello-members.s3.amazonaws.com/5c370b6066dcb24894ab9c1e/45e864b96a63c8fa863368fe6361c371/original.png",
+      "ngaySinh": "05/07/1997",
+      "diaChi": "16/2A đường 51 phường Hiệp Bình Chánh quận Thủ Đức"
+    },
+    {
+      "id": 3,
+      "taiKhoan": "truongvi",
+      "hoTen": "Nguyễn Lương Trường Vĩ",
+      "matKhau": "123456",
+      "hinhAnh": "https://trello-members.s3.amazonaws.com/5d883a0fe52e3d252f59f00e/cc83fa7d173b23a3f679323231235601/original.png",
+      "ngaySinh": "05/07/1997",
+      "diaChi": "16/2A đường 51 phường Hiệp Bình Chánh quận Thủ Đức"
+    }
+  ],
+  "movie": [
+    {
+      "id": 1318,
+      "tenPhim": "Ted 3",
+      "biDanh": "ted-3",
+      "trailer": "https://www.youtube.com/embed/S3AVcCggRnU",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/ted-3_gp05.png",
+      "moTa": "<p>Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T00:00:00",
+      "danhGia": 10
+    },
+    {
+      "id": 1333,
+      "tenPhim": "Trainwreckkk",
+      "biDanh": "trainwreckk",
+      "trailer": "https://www.youtube.com/embed/2MxnhBPoIx4",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/trainwreckk_gp05.jpg",
+      "moTa": "<p>Having thought that monogamy was never possible, a commitment-phobic career woman may have to face her fears when she meets a good guy.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T00:00:00",
+      "danhGia": 10
+    },
+    {
+      "id": 1348,
+      "tenPhim": "Inside Outt",
+      "biDanh": "inside-out",
+      "trailer": "https://www.youtube.com/embed/seMwpP0yeu4",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/inside-out_gp05.jpg",
+      "moTa": "<p>After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:21:28.65",
+      "danhGia": 10
+    },
+    {
+      "id": 1363,
+      "tenPhim": "Home Da Sua",
+      "biDanh": "home-da-sua",
+      "trailer": "https://www.youtube.com/embed/MyqZf8LiWvM",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/home-da-sua_gp05.jpg",
+      "moTa": "<p>Oh, an alien on the run from his own people, lands on Earth and makes friends with the adventurous Tip, who is on a quest of her own.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:29:00.303",
+      "danhGia": 10
+    },
+    {
+      "id": 1378,
+      "tenPhim": "Batman vs Superman: Dawn of Justice 2",
+      "biDanh": "batman-vs-superman-dawn-of-justice-2",
+      "trailer": "https://www.youtube.com/watch?v=ITlQ0oU7tDA",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/batman-vs-superman-dawn-of-justice-2_gp05.jpg",
+      "moTa": "<p>Fearing the actions of a god-like Super Hero left unchecked, Gotham City's own formidable, forceful vigilante takes on Metropolis most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it's ever known before.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:20:47.833",
+      "danhGia": 10
+    },
+    {
+      "id": 1393,
+      "tenPhim": "Ant-Man",
+      "biDanh": "ant-man",
+      "trailer": "https://www.youtube.com/embed/1HpZevFifuo",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/ant-man_gp05.jpg",
+      "moTa": "<p>Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:20:33.807",
+      "danhGia": 10
+    },
+    {
+      "id": 1408,
+      "tenPhim": "Jurassic World",
+      "biDanh": "jurassic-world",
+      "trailer": "https://www.youtube.com/embed/RFinNxS5KN4",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/jurassic-world_gp05.jpg",
+      "moTa": "<p>A new theme park is built on the original site of Jurassic Park. Everything is going well until the park's newest attraction--a genetically modified giant stealth killing machine--escapes containment and goes on a killing spree.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:21:50.747",
+      "danhGia": 10
+    },
+    {
+      "id": 1423,
+      "tenPhim": "Fantastic Four",
+      "biDanh": "fantastic-four",
+      "trailer": "https://www.youtube.com/embed/AAgnQdiZFsQ",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/fantastic-four_gp05.jpg",
+      "moTa": "<p>Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:21:00.14",
+      "danhGia": 10
+    },
+    {
+      "id": 1438,
+      "tenPhim": "Mad Max Fury Roads",
+      "biDanh": "mad-max-fury-roads",
+      "trailer": "https://www.youtube.com/embed/hEJnMQG9ev8",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/mad-max-fury-roads_gp05.jpg",
+      "moTa": "<p>In a stark desert landscape where humanity is broken, two rebels just might be able to restore order: Max, a man of action and of few words, and Furiosa, a woman of action who is looking to make it back to her childhood homeland.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T00:00:00",
+      "danhGia": 10
+    },
+    {
+      "id": 1453,
+      "tenPhim": "True Detectives",
+      "biDanh": "true-detectives",
+      "trailer": "https://www.youtube.com/embed/TXwCoNwBSkQ",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/true-detectives_gp05.jpg",
+      "moTa": "<p>An anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-02-01T09:21:43.687",
+      "danhGia": 10
+    },
+    {
+      "id": 1468,
+      "tenPhim": "The Longest Ride",
+      "biDanh": "the-longest-ride",
+      "trailer": "https://www.youtube.com/embed/FUS_Q7FsfqU",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/the-longest-ride_gp05.jpg",
+      "moTa": "<p>After an automobile crash, the lives of a young couple intertwine with a much older man, as he reflects back on a past love.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:36:08.943",
+      "danhGia": 10
+    },
+    {
+      "id": 1483,
+      "tenPhim": "The Walking Dead",
+      "biDanh": "the-walking-dead",
+      "trailer": "https://www.youtube.com/embed/R1v0uFms68U",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/the-walking-dead_gp05.jpg",
+      "moTa": "Sheriff's Deputy Rick Grimes leads a group of survivors in a world overrun by zombies.",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T00:00:00",
+      "danhGia": 10
+    },
+    {
+      "id": 1498,
+      "tenPhim": "Southpaw",
+      "biDanh": "southpaw",
+      "trailer": "https://www.youtube.com/embed/Mh2ebPxhoLs",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/southpaw_gp05.jpg",
+      "moTa": "Boxer Billy Hope turns to trainer Tick Willis to help him get his life back on track after losing his wife in a tragic accident and his daughter to child protection services.",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T00:00:00",
+      "danhGia": 10
+    },
+    {
+      "id": 1513,
+      "tenPhim": "Specter",
+      "biDanh": "specter",
+      "trailer": "https://www.youtube.com/embed/LTDaET-JweU",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/specter_gp05.jpg",
+      "moTa": "<p>A cryptic message from Bond's past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:34:46.71",
+      "danhGia": 10
+    },
+    {
+      "id": 1528,
+      "tenPhim": "Avenger : Infinity War",
+      "biDanh": "avenger-infinity-war",
+      "trailer": "https://www.youtube.com/embed/DKqu9qc-5f4",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/avenger-infinity-war_gp05.jpg",
+      "moTa": "<p>Biệt đội siêu anh hùng Avengers và những đồng minh sẽ phải sẵn sàng hi sinh tính mạng để chống lại siêu ác nhân hùng mạnh Thanos trước khi hắn phá huỷ mọi thứ và đặt dấu chấm hết cho vũ trụ.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:25:34.04",
+      "danhGia": 10
+    },
+    {
+      "id": 1543,
+      "tenPhim": "Avengers: Infinity War 1",
+      "biDanh": "avengers-infinity-war-1",
+      "trailer": "https://www.youtube.com/embed/DKqu9qc-5f4",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/avengers-infinity-war-1_gp05.jpg",
+      "moTa": "Biệt đội siêu anh hùng Avengers và những đồng minh sẽ phải sẵn sàng hi sinh tính mạng để chống lại siêu ác nhân hùng mạnh Thanos trước khi hắn phá huỷ mọi thứ và đặt dấu chấm hết cho vũ trụ. ",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2020-06-08T00:00:00",
+      "danhGia": 10
+    },
+    {
+      "id": 3637,
+      "tenPhim": "Wonder Woman 1984",
+      "biDanh": "wonder-woman-1984",
+      "trailer": "https://www.youtube.com/watch?v=sfM7_JLk-84",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/wonder-woman-1984_gp05.jpg",
+      "moTa": "<p>Wonder Woman in the year 1984.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:37:21.09",
+      "danhGia": 10
+    },
+    {
+      "id": 3679,
+      "tenPhim": "Mắt biếc",
+      "biDanh": "mat-biec",
+      "trailer": "https://www.youtube.com/watch?v=ITlQ0oU7tDA",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/mat-biec_gp05.jpg",
+      "moTa": "<p>Mắt biếc xoay quanh mối tình đơn phương của Ngạn với Hà Lan, cô bạn gái có cặp mắt hút hồn nhưng cá tính bướng bỉnh. Một chuyện tình nhiều cung bậc, từ ngộ nghĩnh trẻ con, rồi tình yêu thuở học trò trong sáng, trải qua bao biến cố, trở thành một cuộc “đuổi hình bắt bóng” buồn da diết nhưng không nguôi hi vọng.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:30:02.633",
+      "danhGia": 10
+    },
+    {
+      "id": 3712,
+      "tenPhim": "Death Note ",
+      "biDanh": "death-note",
+      "trailer": "https://www.youtube.com/watch?v=gvxNaSIB_WI",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/death-note_gp05.jpg",
+      "moTa": "<p>Truyện xoay quanh Light Yagami, một học sinh cấp III sở hữu trí não của một thiên tài tình cờ nhặt được một cuốn sổ bí ẩn đến từ địa ngục có tên là \"Death Note\" - thứ vốn thuộc quyền sở hữu của tử thần Ryuk.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:27:36.433",
+      "danhGia": 10
+    },
+    {
+      "id": 3718,
+      "tenPhim": "Conjuring 2",
+      "biDanh": "conjuring-2",
+      "trailer": "https://www.youtube.com/watch?v=KyA9AtUOqRM",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/conjuring-2_gp05.jpg",
+      "moTa": "<p>Hai vợ chồng Warren là những người điều tra các hiện tượng siêu nhiên, họ đến để hỗ trợ gia đình Perron (Ron Livingston và Lili Taylor) đang trải qua các sự kiện ngày càng đáng lo ngại trong trang trại của họ ở Harrisville, Rhode Island vào năm 1971.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T00:00:00",
+      "danhGia": 10
+    },
+    {
+      "id": 4088,
+      "tenPhim": "Big Bang Made the Movie 2020",
+      "biDanh": "big-bang-made-the-movie-2020",
+      "trailer": "https://www.youtube.com/embed/BCvLTi4YZaI",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/big-bang-made-the-movie-2020_gp05.jpg",
+      "moTa": "<p>Đây là một bộ phim nói về World Tour “MADE”, chuyến lưu diễn thế giới thứ 2 của BIGBANG, bao gồm 66 concert diễn ra ở 32 thành phố thuộc 13 quốc gia, bao gồm Seoul của Hàn Quốc, những thành phố ở châu Đại Dương, ở Bắc – Trung Mỹ, và ở châu Á, thu hút 1.5 triệu fan đến theo dõi, kéo dài từ tháng 4 năm 2015 đến tháng 3 năm 2016. Bộ phim đánh dấu 10 năm hoạt động nghệ thuật của nhóm, fans hâm mộ sẽ thấy được một khía cạnh hoàn toàn khác với những hình ảnh hào nhoáng trên sân khấu của thần tượng - những hình ảnh chưa bao giờ được công bố sau hậu trường</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:26:20.687",
+      "danhGia": 10
+    },
+    {
+      "id": 4104,
+      "tenPhim": "Ròm",
+      "biDanh": "rom",
+      "trailer": "https://www.youtube.com/watch?v=XRm1P7oGpMQ",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/rom_gp05.jpg",
+      "moTa": "<p>Ròm là một bộ phim về đề tài tội phạm và bạo lực năm 2019 của đạo diễn Trần Thanh Huy. Bộ phim được công chúng quốc tế để mắt tới khi nó vinh dự trở thành bộ phim nói Tiếng Việt đầu tiên đoạt giải phim hay nhất tại Liên hoan phim Busan lần thứ 24</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:34:13.443",
+      "danhGia": 10
+    },
+    {
+      "id": 4322,
+      "tenPhim": "Quái vật săn đêm",
+      "biDanh": "quai-vat-san-dem",
+      "trailer": "https://youtu.be/YnWxIlQqXvw",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/quai-vat-san-dem_gp05.jpg",
+      "moTa": "<p>Sau vụ tai nạn tàu không gian, phi hành gia Konstantin trở về Trái Đất và sống sót một cách kỳ diệu. Một chuyên gia y học hàng đầu được cử đến để nghiên cứu về hiện tượng kỳ lạ này. Đâu ai biết được rằng, điều khủng khiếp sắp xảy ra, khi phi hành gia đã mang theo về Trái Đất một sinh vật ngoài không gian giết chóc và đáng sợ - Quái Vật Săn Đêm. Nhân loại sẽ làm gì để ngăn chặn sự tàn ác, bản chất khát máu điên cuồng của Quái Vật Săn Đêm và thoát khỏi nguy cơ bị tận diệt?</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:33:33.723",
+      "danhGia": 10
+    },
+    {
+      "id": 4323,
+      "tenPhim": "Tay đấm Mỹ",
+      "biDanh": "tay-dam-my",
+      "trailer": "https://youtu.be/fFcygp6K4BA",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/tay-dam-my_gp05.jpg",
+      "moTa": "<p>Một thanh niên đang tuyệt vọng bị buộc phải bước vào thế giới ngầm và đặt cược tất cả những gì mình có, kể cả mạng sống để lấy tiền cứu người mẹ ốm yếu của mình.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:35:08.037",
+      "danhGia": 10
+    },
+    {
+      "id": 4324,
+      "tenPhim": "Đại dịch xác sống",
+      "biDanh": "dai-dich-xac-song",
+      "trailer": "https://youtu.be/JgWqAAicFl4",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/dai-dich-xac-song_gp05.jpg",
+      "moTa": "<p>Đại Dịch Xác Sống là câu chuyện đấu tranh để sinh tồn đầy kịch tính của nam thanh niên Aidan, khi bỗng một ngày những người hàng xóm xung quanh anh bị nhiễm một chủng virus lạ và trở thành xác sống. Bị cô lập trong căn hộ với lượng thức ăn có giới hạn, Aidan phải lựa chọn giữa việc cố thủ tại đây hoặc ra ngoài tìm kiếm sự trợ giúp giữa sự bủa vây của lũ quái vật khát máu.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:38:17.013",
+      "danhGia": 10
+    },
+    {
+      "id": 4326,
+      "tenPhim": "Tí hon đậu đậu",
+      "biDanh": "ti-hon-dau-dau",
+      "trailer": "https://youtu.be/wtC59shXpmc",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/ti-hon-dau-dau_gp05.jpg",
+      "moTa": "<p>Trong suốt 200 năm, tộc người tí hon Elfkins đã sống sâu dưới lòng đất và hạn chế tiếp xúc với con người vì nghĩ rằng họ rất xấu xa. Một ngày nọ, cô bé Helvi tí hon không chịu nổi sự tù túng và chật chội của lòng đất, cô quyết định “phá luật’’ và trèo lên mặt đất. Đồng hành với cô là hai anh bạn Buck và Kipp. Ở đó, bộ ba đã gặp gỡ và kết bạn với Theo – một thợ làm bánh tài năng. Sau nhiều chuyện dở khóc dở cười, Helvi đã xây dựng được một tình bạn đáng yêu giữa tí hon và con người. Cuối cùng, chính tình bạn này đã giúp tất cả nhận ra giá trị tốt đẹp trong cuộc sống đó chính là giúp đỡ lẫn nhau.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:37:02.633",
+      "danhGia": 10
+    },
+    {
+      "id": 4327,
+      "tenPhim": "Tiệc trăng máu",
+      "biDanh": "tiec-trang-mau",
+      "trailer": "https://youtu.be/ql5Ro6jtbII",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/tiec-trang-mau_gp05.jpg",
+      "moTa": "<p>Trong buổi họp mặt của nhóm bạn thân, một thành viên bất ngờ đề xuất trò chơi chia sẻ điện thoại nhằm tăng tinh thần đoàn kết. Từ đó, những góc khuất của từng người dần hé lộ và khiến cho mối quan hệ vốn khắng khít của họ bắt đầu lay chuyển.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:35:32.643",
+      "danhGia": 10
+    },
+    {
+      "id": 4328,
+      "tenPhim": "Chồng người ta",
+      "biDanh": "chong-nguoi-ta",
+      "trailer": "https://youtu.be/QfREEWQfZCQ",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/chong-nguoi-ta_gp05.jpg",
+      "moTa": "<p>Chồng Người Ta là một bộ phim tâm lý tình cảm có yếu tố bất ngờ, phim khai thác câu chuyện tình yêu đầy thù hận xoay quanh ba nhân vật Hà,Cường và Trung. Tưởng rằng quá khứ đã chôn vùi, Cường cùng vợ con xây đắp tổ ấm nhỏ hạnh phúc. Nào ngờ, sự xuất hiện của Thắng - người nắm giữbí mật động trời của Cường. Liệu Hà, Cường và Trung có vượt qua được nỗiđau của tình yêu và hận thù?</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:26:44.793",
+      "danhGia": 10
+    },
+    {
+      "id": 4331,
+      "tenPhim": "Phi vụ hoàn lương",
+      "biDanh": "phi-vu-hoan-luong",
+      "trailer": "https://youtu.be/vmVwLHR59RE",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/phi-vu-hoan-luong_gp05.jpg",
+      "moTa": "<p>Một tên cướp ngân hàng chuyên nghiệp đã giải nghệ, chấp nhận nộp mình cho FBI vì anh đã trót yêu một người phụ nữ và muốn sống cuộc sống lương thiện với cô gái đó. Tuy nhiên, anh nhận ra việc tiết lộ khoản tiền anh cướp được từ ngân hàng năm xưa cho các Đặc vụ Liên bang là một sai lầm. Vì các đặc vụ này quan tâm đến khoản tiền đó hơn là lời thú nhận của anh. Liệu tên cướp này có thể ngăn chặn các đặc vụ tha hóa này lấy cắp số tiền đó và thành công \"hoàn lương\" hay không?</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:32:14.223",
+      "danhGia": 10
+    },
+    {
+      "id": 4404,
+      "tenPhim": "Quyền hoài thi",
+      "biDanh": "quyen-hoai-thi",
+      "trailer": "https://www.youtube.com/watch?v=xpNgToHf0Q8&ab_channel=CGVCinemasVietnam",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/quyen-hoai-thi_gp05.jpg",
+      "moTa": "<p>bộ phim của Hương Giang</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:33:59.463",
+      "danhGia": 10
+    },
+    {
+      "id": 4413,
+      "tenPhim": "Kho báu bí mật",
+      "biDanh": "kho-bau-bi-mat",
+      "trailer": "https://www.youtube.com/watch?v=xpNgToHf0Q8&ab_channel=CGVCinemasVietnam",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/kho-bau-bi-mat_gp05.jpg",
+      "moTa": "<p>bộ phim nói về cuộc đời của những người đi tìm kho báu trong vô vọng</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:37:54.99",
+      "danhGia": 10
+    },
+    {
+      "id": 4414,
+      "tenPhim": "Lừa tình",
+      "biDanh": "lua-tinh",
+      "trailer": "https://www.youtube.com/watch?v=xpNgToHf0Q8&ab_channel=CGVCinemasVietnam",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/lua-tinh_gp05.jpg",
+      "moTa": "<p>bộ phim nói về những cuôc đời của những người bị cắm sừng nè.... bộ phim của Hương Giang</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:29:34.903",
+      "danhGia": 10
+    },
+    {
+      "id": 4416,
+      "tenPhim": "cuộc sống muôn màu",
+      "biDanh": "cuoc-song-muon-mau",
+      "trailer": "https://www.youtube.com/watch?v=xpNgToHf0Q8&ab_channel=CGVCinemasVietnam",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/cuoc-song-muon-mau_gp05.jpg",
+      "moTa": "<p>bộ phim nói về cuộc sống thường ngày với muôn ngàn sắc thái khác cảm xúc khác nhau của con người</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:37:36.663",
+      "danhGia": 10
+    },
+    {
+      "id": 4420,
+      "tenPhim": "Ròm 2",
+      "biDanh": "rom-2",
+      "trailer": "https://www.youtube.com/watch?v=XRm1P7oGpMQ",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/rom-2_gp05.jpg",
+      "moTa": "<p>Ròm - Wowy</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:34:24.52",
+      "danhGia": 10
+    },
+    {
+      "id": 4421,
+      "tenPhim": "Avenger - End Game",
+      "biDanh": "avenger-end-game",
+      "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/avenger-end-game_gp05.jpg",
+      "moTa": "Phim hay vãi chưởng.!",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2020-10-10T00:00:00",
+      "danhGia": 10
+    },
+    {
+      "id": 4501,
+      "tenPhim": "Ngôi làng chết chóc",
+      "biDanh": "ngoi-lang-chet-choc",
+      "trailer": "https://youtu.be/GUp5cpHK0u8",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/ngoi-lang-chet-choc_gp05.jpg",
+      "moTa": "<p>Một ngôi làng hẻo lánh ở Thái Lan không hiểu vì sao vướng phải một lời nguyền quái ác. Cứ mỗi đêm trăng tròn, lời nguyền sẽ thức tỉnh và giáng xuống dân làng. Những ai xui xẻo mắc phải lời nguyền sẽ trở nên điên loạn và khát máu. Để toàn mạng sống sót, những dân làng còn lại buộc phải tìm ra căn nguyên của lời nguyền và phá giải nó trước khi đêm trăng kết thúc.</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T23:30:25.68",
+      "danhGia": 10
+    },
+    {
+      "id": 4502,
+      "tenPhim": "Cuộc chiến tay tư",
+      "biDanh": "cuoc-chien-tay-tu",
+      "trailer": "dsadasdasdasd",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/cuoc-chien-tay-tu_gp05.jpg",
+      "moTa": "<p>bộ phim nói về cuộc sống thường ngày với muôn ngàn sắc thái khác cảm xúc khác nhau của con người</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T00:00:00",
+      "danhGia": 10
+    },
+    {
+      "id": 4520,
+      "tenPhim": "Tổng thống hàn quốcs",
+      "biDanh": "tong-thong-han-quocs",
+      "trailer": "https://www.youtube.com/watch?v=2GRP1rkE4O0",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/tong-thong-han-quocs_gp05.jpg",
+      "moTa": "<p>Phim gì đây cả nhà ...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-02-01T09:21:29.75",
+      "danhGia": 10
+    },
+    {
+      "id": 4523,
+      "tenPhim": "Gái già lắm chiêu",
+      "biDanh": "gai-gia-lam-chieu",
+      "trailer": "https://www.youtube.com/embed/ywtnNwt6U_E",
+      "hinhAnh": "http://movie0706.cybersoft.edu.vn/hinhanh/gai-gia-lam-chieu_gp05.png",
+      "moTa": "<p>Gái già lắm chiêu phim hay phim hay</p>",
+      "maNhom": "GP05",
+      "ngayKhoiChieu": "2021-01-11T00:00:00",
+      "danhGia": 10
+    }
+  ]
+}

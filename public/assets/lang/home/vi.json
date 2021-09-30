@@ -1,0 +1,18 @@
+{
+    "label_create_movie": "Thêm Phim",
+    "label_id": "Mã Số",
+    "label_name_movie": "Tên Phim",
+    "label_alias_movie": "Bí Danh",
+    "label_image_movie": "Hình Ảnh",
+    "label_description": "Mô Tả",
+    "label_action": "Hành Động",
+    "label_show":"Hiển Thị",
+    "label_btn_modify" : "Sửa",
+    "label_btn_delete" : "Xóa",
+    "label_modify_form_title": "Sửa Phim",
+    "label_modify_form_submit": "Chỉnh Sửa",
+    "label_delete_form_submit": "Xóa Phim",
+    "label_delete_form_cancel": "Quay Lại",
+    "label_delete_form_note": "Bạn Có chắc chắn muốn xóa phim ",
+    "label_compoent_search_placehoder" : "Tìm kiếm theo tên phim"
+}

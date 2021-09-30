@@ -1,0 +1,9 @@
+.body-page {
+  overflow: auto;
+  background-color: #2c2e37;
+  height: 100%;
+  min-height: 800px;
+  min-width: 1000px;
+  padding-bottom: 30px;
+  color: #fff;
+}

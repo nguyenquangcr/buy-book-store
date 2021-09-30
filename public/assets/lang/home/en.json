@@ -1,0 +1,18 @@
+{
+    "label_create_movie": "Add Movie",
+    "label_id": "ID",
+    "label_name_movie": "Movie Name",
+    "label_alias_movie": "Alias",
+    "label_image_movie": "Image",
+    "label_description": "Description",
+    "label_action": "Action",
+    "label_show":"Show",
+    "label_btn_modify" : "Edit",
+    "label_btn_delete" : "Delete",
+    "label_modify_form_title": "Edit Movie",
+    "label_modify_form_submit": "Edit",
+    "label_delete_form_submit": "Delete Movie",
+    "label_delete_form_cancel": "Cancel",
+    "label_delete_form_note": "Are you sure you want to delete the movie ",
+    "label_compoent_search_placehoder" : "Search for name movie"
+}
